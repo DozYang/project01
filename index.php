@@ -2,5 +2,7 @@
     <head>
         <script src="node_modules/vue/dist/vue.js"></script>
     </head>
-    <body></body>
+    <body>
+        <p>test</p>
+    </body>
 </html>
